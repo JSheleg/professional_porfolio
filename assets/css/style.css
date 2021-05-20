@@ -185,26 +185,21 @@ header nav ul li  :hover{
     text-align:center;
 }
 
+/**End Porfolio Section**/
 
+/*About me section*/
 
+.about_me h2{
+    margin-top: 50px;
 
-
-
-
-
-
-
-
-
-
+}
 
 .about{
     display:flex;
     justify-content: space-between;
     flex-wrap:wrap;
-    text-align: right;
+    text-align: center;
     font-size: 22px;
-    padding-bottom: 20px;
 }
 
 .about>*{
@@ -216,22 +211,38 @@ header nav ul li  :hover{
     height:60%;
     width: 50%;
     border-radius: 50%;
-    align-items: center;
-    
+    align-items: center; 
+    border: 8px solid black;  
 }
 
 .about-text{
     width: 75%;
     text-align:justify;
-    padding-right: 100px;
+    padding-right: 100px; 
+   
+    
 }
 
+.about-text p{
+    align-items: center;
+    padding-top:50px;
+    
+}
+
+/*end of about me section*/
+
+/*contact section*/
+
+.contact_info{
+    margin-top: 50px;
+}
 .contact {
     display:flex;
     flex-direction:column;
     justify-content:center;
     align-items: center;
     padding-bottom: 50px;
+    padding-top: 50px;
     
 }
 
@@ -251,34 +262,43 @@ header nav ul li  :hover{
     flex-wrap: wrap;
     background-color:red;
     font-weight:bold;
+    border: 2px solid black;
+    border-radius:25px
 }
 
-.contact_links ul {
+
+.contact_links div ul{
+    width:100%;
+    
+}
+.contact_links ul li {
     padding-top: 50px;
     display:flex;
-    flex-wrap: wrap;
-    justify-content:space-around;
-    align-items:flex-end;
-    list-style:none;
     font-weight: bold;
+    justify-content:space-evenly;
+    flex-direction:row; 
     
 }
 
 .contact_links a{
-    color:black;
-  
-    
+    color:black;     
 }
 
 footer{
     width:100%;
     padding: 40px 35px;
     background-color:red;
+    
 }
 
 footer h2{
     font-size: 30px;
     text-align: center;
+    border: 2px solid black;
+    border-radius:25px;
+    background-color: black; 
+    color: red;
+    
 }
 
 
