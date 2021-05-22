@@ -16,10 +16,11 @@
 
 
 ### Repository found at:
-https://github.com/JSheleg/professional_porfolio 
+https://github.com/JSheleg/professional_portfolio 
 
 ### Link to my deployed Page:
-https://jsheleg.github.io/professional_porfolio/
+https://jsheleg.github.io/professional_portfolio/
+
 
 ![landing page](assets\img\screen_shot.JPG)
 
