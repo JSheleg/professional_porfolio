@@ -21,5 +21,5 @@ https://github.com/JSheleg/professional_porfolio
 ### Link to my deployed Page:
 https://jsheleg.github.io/professional_porfolio/
 
-![landing page](assets\img\screen_shot.JPG)
+![landing page](professional_portfolio\assets\img\screen_shot.JPG)
 
