@@ -22,5 +22,5 @@ https://github.com/JSheleg/professional_portfolio
 https://jsheleg.github.io/professional_portfolio/
 
 
-![landing page](assets\img\screen_shot.JPG)
+![professional_porfolio](https://github.com/JSheleg/professional_porfolio/blob/main/assets/img/screen_shot.JPG)
 
