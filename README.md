@@ -1,5 +1,9 @@
 # Professional Portfolio
 
+### Update 8/22/2021
+* Featured project is Find My Boards
+* Last group project has been moved to current projects followed by a few module challenges.
+
 ### Showcase of my current/past projects
 
 * Projects Currently Included:
